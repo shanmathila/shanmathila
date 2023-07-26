@@ -31,6 +31,15 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="40"/> </a> </p><br>
 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh07P80hn11b2P5l8uqhKBUfyIthQhYnAXcQ&usqp=CAU" alt="hiiiii" width="400" height="250">
+
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=shanmathila&" alt="shanmathila"  height="250" width="350" /></p>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shanmathila&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/harikumaran" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="harikumaran" height="30" width="100" /></a>
