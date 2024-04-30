@@ -22,15 +22,13 @@
 - ⚡ Fun fact: Love to lisiting music.
 <br>
 
-<h3 align="center">-Things I Love😁-</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=-Python💻-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src=-SQL📅-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="90" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src=-Machine Learning👩‍💻-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="90" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src=-Deep Learning😊.-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="100" height="40"/> </a> <br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=-Data Science✌️-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="90" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="40"/> </a> </p><br>
+❤️ *Things I love*
+- Python✌️  
+- Machine Learning 🔍
+- Deep Learing 😃
+- SQL 📅
+- Data Science 🧠
+  
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh07P80hn11b2P5l8uqhKBUfyIthQhYnAXcQ&usqp=CAU" alt="hiiiii" width="400" height="250">
 
