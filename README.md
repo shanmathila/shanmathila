@@ -1,7 +1,7 @@
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="hlo" height="350" width="100%">
 <h1 align="center">Hi 👋, I'm Shanmathi L A</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ArtificialIntelligent+and+DataScience+student;Data+Scientist;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ArtificialIntelligence+and+DataScience+student;Data+Scientist;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
