@@ -12,12 +12,13 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>Little facts about me 😊</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Deep Learning.
 - 👯 I’m looking to collaborate with Deep Learning projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
+- 👩‍💻Shanmathi proves that excellence knows no bounds!"
 - ⚡ Fun fact: Love to lisiting music.
 <br>
 
