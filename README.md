@@ -22,12 +22,13 @@
 - ⚡ Fun fact: Love to lisiting music.
 <br>
 
-❤️ *Things I love*
-- Python✌️  
-- Machine Learning 🔍
-- Deep Learing 😃
-- SQL 📅
-- Data Science 🧠
+👨‍💻 Technical Skills:
+- Programming Languages: Python💻
+- Databases: SQL📅
+- Machine Learning Frameworks: TensorFlow, Pandas🧠
+- Web Development: HTML🤔
+- Data Visualization Libraries: Seaborn, Matplotlib📊
+
   
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh07P80hn11b2P5l8uqhKBUfyIthQhYnAXcQ&usqp=CAU" alt="hiiiii" width="400" height="250">
